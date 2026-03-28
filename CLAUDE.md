@@ -49,6 +49,18 @@ The session table in README.md is reverse chronological (newest first). When add
 4. Verify the day of week matches the series (Saturday=AI Engineers, Wednesday=AI Business, Friday=Agents in the Wild)
 5. Add the session to the top of the README table
 
+## Maintaining TRENDS.md
+
+TRENDS.md tracks how topics evolved across all sessions. To update it:
+
+1. Read the most recent sessions since the last update (check the "Last updated" line at the top of TRENDS.md)
+2. Identify new themes or developments in those sessions
+3. For any new topic, search backwards through older sessions to check if it has earlier roots
+4. Update existing trend sections with new developments, or add new sections if a genuinely new theme emerged
+5. Update the "Last updated" line
+
+Don't rewrite from scratch each time. Update incrementally, but adjust framing if the arc of a topic looks different with new information.
+
 ## Enriching existing sessions
 
 Some sessions were written from high-level summaries and could be improved with full transcript data. If you have access to a recording or transcript for an existing session, rewrite the abridgment to match the depth and specificity of the more detailed sessions in this repo (look at any March 2026 session for reference).

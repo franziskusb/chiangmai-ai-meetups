@@ -53,6 +53,10 @@ There is also a sister community in Bangkok running similar events, but this rep
 | [2025-08-06](sessions/2025-08-06-ai-business.md) | AI Business | Synthetic users, sales automation, international incorporation |
 | [2025-06-14](sessions/2025-06-14-ai-engineers.md) | AI Engineers | New IDE paradigm, git worktree for agents, Bruno's open-source stack |
 
+## Trends
+
+For a longitudinal analysis of how topics, tools, and ideas evolved across sessions, see [TRENDS.md](TRENDS.md).
+
 ## Venues
 
 | Name | Lat | Lon | Notes |
