@@ -8,6 +8,10 @@ If you missed a session, you can read what happened. If you're new to the commun
 
 We talk about AI, so naturally we also use AI to maintain this archive. Each session is recorded, transcribed with speaker diarization, and then condensed into a detailed abridgment that preserves the full substance of the discussion. Audio and transcripts are not published for privacy reasons.
 
+![The AI Frontier: A Year in the Chiang Mai Labs (2025-2026)](media/infographic.png)
+
+[Listen to the podcast: A Year in the Chiang Mai AI Labs](media/podcast-year-in-review.m4a)
+
 ## Event Series
 
 The community runs several recurring events:
